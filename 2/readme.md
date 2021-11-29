@@ -5,10 +5,11 @@
 ## principal: Michał Czerwiński
 
 
-| dossier version | date |
-| ------ | ------ |
-| 1.0 | 17.11.2021 |
-| 1.1 | 17.11.2021 |
+| dossier version | date | description |
+| ------ | ------ | ------ |
+| 1.0 | 17.11.2021 | none |
+| 1.1 | 17.11.2021 | adding ERD |
+| 1.2 | 25.11.2021 | adding organizational structure |
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
@@ -47,6 +48,13 @@ does not compromise cyberspace or any other space of any state.
 The code contained in the project, does not contain malware and is safe to use. 
 I am personally responsible for its operation: Adrian Bartoszewski.
 
+## Entity Relationship Diagram
+
+[link to diagram in PNG][erd]
+
+## Organizational structure diagram
+
+[link to diagram OSD in PNG][osd]
 
 ## Cpecific functionalities
 
@@ -68,4 +76,9 @@ Dillinger uses a number of open source projects to work properly:
 - [SQL]
 - [MySql/MariaDb]
 - [Apache]
+## Layout for form in HTML
+[link to form in PNG][form]
 
+[erd]: <https://github.com/Michal3456/3bi4/blob/main/2/Diagram/Diagram.PNG>
+[osd]: <https://github.com/Michal3456/3bi4/blob/main/2/Diagram/Diagram%20OSD.PNG>
+[form]: <https://github.com/Michal3456/3bi4/blob/main/2/Diagram/form.PNG>
